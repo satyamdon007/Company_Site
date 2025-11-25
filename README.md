@@ -1,3 +1,17 @@
+# StartUsingFirstCommands
+
+Needs Angular CLI : If you haven't already, install the Angular CLI globally using npm.
+
+```bash
+  npm install -g @angular/cli
+```
+
+Needs Node_Packages:
+
+``` bash
+npm i
+```
+
 # FusionAngularTailwindStarter
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.2.
