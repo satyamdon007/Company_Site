@@ -9,7 +9,7 @@ Needs Angular CLI : If you haven't already, install the Angular CLI globally usi
 Needs Node_Packages:
 
 ``` bash
-npm i
+   npm i
 ```
 
 # FusionAngularTailwindStarter
