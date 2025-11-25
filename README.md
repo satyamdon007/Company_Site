@@ -12,6 +12,14 @@ Needs Node_Packages:
    npm i
 ```
 
+Tailwind CSS (Optional):
+
+```bash
+   npm install tailwindcss @tailwindcss/postcss postcss --force
+```
+   
+   
+
 # FusionAngularTailwindStarter
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.2.
